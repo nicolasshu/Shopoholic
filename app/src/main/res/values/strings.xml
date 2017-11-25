@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopoholic V0</string>
+    <string name="main_title">Welcome to Shopoholic</string>
+    <string name="main_label_item">Item</string>
+    <string name="search_button">Search</string>
+    <string name="API_KEY">SEM3A075208FC5BB06CD0CE968141F695FE4</string>
+    <string name="API_SECRET">ZjU1ZjdkZTI3NzFiMzgxMzdhZDAzYWQ1NmQyYmE4OTM</string>
+</resources>
